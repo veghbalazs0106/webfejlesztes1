@@ -1,6 +1,6 @@
 Készítette: Végh Balázs
 
-URL: https://veghbalazs0106.github.io/webfejlesztes/
+URL:  https://veghbalazs0106.github.io/webfejlesztes1/
 
 A weboldal a freestyle focit, mint sportágat mutatja be vázlatosan.
 Azért ezt a témát választottam, mert én is ezt a sportot űzöm.
